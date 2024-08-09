@@ -1,16 +1,29 @@
-# flutter_application_1
+# Currency Converter using Flutter
 
-A new Flutter project.
+This project is a simple currency converter app built using Flutter. The app allows users to convert between US Dollars to Indian Rupees.
+
+## Features
+
+- Real-time currency conversion
+- User-friendly interface
+- Responsive design
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow the steps below to set up and run the project on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install) (v3.x or above)
+- [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
+- A working Android/iOS emulator or a physical device
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Tarunika-R/Currency_Converter.git
+
