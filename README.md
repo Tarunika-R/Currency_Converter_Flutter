@@ -27,3 +27,7 @@ Before you begin, ensure you have the following installed:
    ```bash
    git clone https://github.com/Tarunika-R/Currency_Converter.git
 
+
+### Screenshots of coding and final output
+![Screenshot 2024-08-09 104547](https://github.com/user-attachments/assets/35b6d20d-8259-469e-944e-d5e2ff3eacf0)
+![Screenshot 2024-08-09 105942](https://github.com/user-attachments/assets/651ecd81-a138-4c8c-b903-3e77cdd7bab9)
