@@ -2,7 +2,7 @@
 
 This project is a simple currency converter app built using Flutter. The app allows users to convert between US Dollars to Indian Rupees.
 
-## Feature
+## Features
 
 - Real-time currency conversion
 - User-friendly interface
