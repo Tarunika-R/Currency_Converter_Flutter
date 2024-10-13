@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 - [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/)
 - A working Android/iOS emulator or a physical device
 
-### Installation
+### Installation process
 
 1. **Clone the repository:**
 
